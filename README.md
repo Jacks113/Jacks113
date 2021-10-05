@@ -1,0 +1,3 @@
+- Call me Jack
+- Interested in learning new tools and technologies
+- I’m currently learning javascript, react and similar technologies/tools
